@@ -1,5 +1,6 @@
-1. Menguasai Node.JS
-2. Menguasai React
-3. Membuat Aplikasi Management Barang
-4. Membuat Aplikasi Pembukuan
-5. Membuat Channel Youtube
+Menguasai Node.JS
+Menguasai React
+Membuat Personal Portfolio Webpage
+Membuat Aplikasi Management Barang
+Membuat Aplikasi Pembukuan
+Membuat Channel Youtube
