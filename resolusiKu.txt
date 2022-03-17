@@ -2,4 +2,4 @@
 2. Menguasai React
 3. Membuat Aplikasi Management Barang
 4. Membuat Aplikasi Pembukuan
-5. Membuat Studio Youtube
+5. Membuat Channel Youtube
