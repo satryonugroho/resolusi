@@ -2,5 +2,6 @@ Rencana Aplikasi Saya
 
 -Website Galery dengan CI -> Galery untuk produk yang sudah dihasilkan
 -Aplikasi Freeused -> Aplikasi untuk mencari teman
--Membuat Freesoure API -> menggunakan Laravel9 
 -Membuat GeoMaping -> menggunakan B4A
+-Membuat Freesoure API -> menggunakan CI & Node.js
+
